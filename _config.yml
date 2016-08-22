@@ -1,0 +1,23 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+# relative_permalinks: true
+
+# Setup
+title:               Brandon S Kraeling
+tagline:             'Nerd extraordinaire'
+description:         'Check out what Brandons been up to.'
+url:                 http://bkraeling.me
+baseurl:             ''
+paginate:            5
+gems:                [jekyll-paginate]
+
+# About/contact
+author:
+  name:              Brandon
+  url:               https://twitter.com/themusketeer
+  email:             bkraeling@gmail.com
+
+# Custom vars
+version:             1.0.0
