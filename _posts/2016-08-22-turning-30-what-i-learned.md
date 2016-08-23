@@ -3,7 +3,7 @@ layout: post
 title: Today is the last day of my 20's. Here's what I've learned.
 ---
 
-I turn 30 years old tomorrow. As the latest possible point of my 20's, I'm at the point where I can look back and definitively say what I've learned in the last 10 years. When I turned 20, I was a typical college kid who had no idea what he wanted to do with his life. I still don't think I've fully answered that question, but I have gleaned some knowledge in the process.
+I turn 30 years old tomorrow. On the last day of my 20's, I'm at the point where I can look back and definitively say what I've learned in the last 10 years. When I turned 20, I was a typical college kid who had no idea what he wanted to do with his life. I still don't think I've fully answered that question, but I have gleaned some knowledge in the process.
 
 ### Be nice
 
