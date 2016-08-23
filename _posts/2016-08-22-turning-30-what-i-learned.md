@@ -7,7 +7,7 @@ I turn 30 years old tomorrow. As the latest possible point of my 20's, I'm at th
 
 ### Be nice
 
-I've never considered myself a mean guy or anything, but I'm constantly impressed at how a little bit of cordiality can improve someone's situation. The girl I'm marrying might be the best person I know at being constantly nice to strangers, and it makes going through life that much less stressful.
+I've never considered myself a mean guy or anything, but I'm constantly impressed at how a little bit of cordiality can improve someone's situation. The girl I'm marrying might be the best person I know at being consistently nice to strangers, and it makes going through life that much less stressful.
 
 ### Work > Talk
 
@@ -23,7 +23,7 @@ Trying to do everything at once results in everything getting half done and noth
 
 ### You don't need most things
 
-Stop accumulating stuff and then keeping it just to keep it. I'm constantly surprised how little I use compared to how much stuff I've owned. I'm still doing my best to downsize and get rid of stuff I don't need, and will continue to.
+Stop accumulating stuff and then keeping it just to keep it. I'm always surprised how little I use compared to how much stuff I've owned. I'm still doing my best to downsize and get rid of stuff I don't need, and will continue to.
 
 ### The world is large
 
