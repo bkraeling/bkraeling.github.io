@@ -5,9 +5,9 @@ permalink:           pretty
 # relative_permalinks: true
 
 # Setup
-title:               Brandon S Kraeling
+title:               Brandon Kraeling
 tagline:             'Nerd extraordinaire'
-description:         'Check out what Brandons been up to.'
+description:         'Hello.'
 url:                 http://bkraeling.me
 baseurl:             ''
 paginate:            5
@@ -21,3 +21,4 @@ author:
 
 # Custom vars
 version:             1.0.0
+permalink:           /:year/:month/:day/:title
