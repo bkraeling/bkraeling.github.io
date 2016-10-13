@@ -10,6 +10,6 @@ I've developed in a platitude of web and native application interfaces, but I ha
 
 I'm also an accomplished writer. I've written for the SB Nation network (specifically [Red Reporter](http://www.redreporter.com)) since 2008, and have been linked by Deadspin, as well as numerous other web publications. I've been consulted as a Cincinnati Reds expert on multiple radio and podcast appearances, and have contributed to Reds annual publications as well.
 
-In my spare time, I enjoy watching soccer at Nippert Stadium, rooting on my alma mater (Xavier) on the basketball court, bar trivia (3x Cincinnati champ), and spending time outside with my fiancée and our dog.  
+In my spare time, I enjoy watching soccer at Nippert Stadium, rooting on my alma mater (Xavier) on the basketball court, bar trivia (3x Cincinnati champ), and spending time outside with my lovely wife and our awesome dog.
 
 Questions or suggestions? Shoot me an email (bkraeling@gmail.com) [or tweet](http://twitter.com/themusketeer) and I'd be happy to chat.
