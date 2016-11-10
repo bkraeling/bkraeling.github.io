@@ -35,7 +35,7 @@ If the rest of the world needs to grab you by the collar and smack you upside th
 
 It’s up to everyone to make that change now. It’s time to call out the bullshit.
 
-If you voted against progress today, fuck you. I hope everything he promised happens so you can see the complete fucking mess you just contributed to. I hope your kids hear his rhetoric so you can see what kind of monsters you’ll be getting to deal with. I hope you have to custom order your kid’s white hood because they haven’t made them in less than an XL in 100 years.
+If you voted against progress today, you are wrong. I hope everything he promised happens so you can see the complete fucking mess you just contributed to. I hope your kids hear his rhetoric so you can see what kind of monsters you’ll be getting to deal with. I hope you have to custom order your kid’s white hood because they haven’t made them in less than an XL in 100 years.
 
 I want this to happen because I want you to see what everybody else sees when they look at this country. I want you to realize that a society can’t function like this, with hate flowing from the top down, that we’re no better than an authoritarian or a dictator, the ones that we’ve fought wars to try and dispense.
 
