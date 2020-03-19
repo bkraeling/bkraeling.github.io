@@ -8,7 +8,6 @@ paginate_path: "/page/:num"
 
 baseurl: ""
 domain_name: bkraeling.me
-google_analytics: UA-52446115-1
 
 destination: _site
 

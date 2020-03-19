@@ -1,6 +1,6 @@
 {
-  "name": "nandomoreira-jekyll-theme",
-  "version": "0.0.1",
+  "name": "bkraeling.github.io",
+  "version": "1.0.0",
   "description": "<a target='_blank' rel='nofollow' href='https://app.codesponsor.io/link/1QQGjzDQqsP1MDC8moUwzJjD/nandomoreirame/nandomoreira-jekyll-theme'>   <img alt='Sponsor' width='888' height='68' src='https://app.codesponsor.io/embed/1QQGjzDQqsP1MDC8moUwzJjD/nandomoreirame/nandomoreira-jekyll-theme.svg' /> </a>",
   "main": "gulpfile.js",
   "scripts": {
