@@ -6,7 +6,7 @@ paginate: 2 #6
 comments: true
 paginate_path: "/page/:num"
 
-baseurl: "" # change to empty string ""
+baseurl: ""
 domain_name: bkraeling.me
 google_analytics: UA-52446115-1
 
@@ -65,3 +65,7 @@ compress_html:
     envs: all
 
 exclude: ["gulp", "node_modules", "bower", "bower_components", "config.rb", "src", "Gemfile", "Gemfile.lock", ".rvmrc", ".rbenv-version", "package.json", "gulpfile.js", "README.md", "Rakefile", "changelog.md"]
+
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
