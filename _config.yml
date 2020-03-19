@@ -10,7 +10,6 @@ baseurl: ""
 domain_name: bkraeling.me
 google_analytics: UA-52446115-1
 
-source: source
 destination: _site
 
 # cover: /assets/images/header-cover.png
