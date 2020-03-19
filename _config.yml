@@ -1,24 +1,67 @@
-# Permalinks
-#
-# Use of `relative_permalinks` ensures post links from the index work properly.
-permalink:           pretty
-# relative_permalinks: true
+permalink: /:title/
+markdown: kramdown
+highlighter: pygments
 
-# Setup
-title:               Brandon Kraeling
-tagline:             'Nerd extraordinaire'
-description:         'Hello.'
-url:                 http://bkraeling.me
-baseurl:             ''
-paginate:            5
-gems:                [jekyll-paginate]
+paginate: 2 #6
+comments: true
+paginate_path: "/page/:num"
 
-# About/contact
+baseurl: "" # change to empty string ""
+domain_name: bkraeling.me
+google_analytics: UA-52446115-1
+
+source: source
+destination: _site
+
+# cover: /assets/images/header-cover.png
+
+# site title, description, meta_description, meta_keywords
+# Details for the RSS feed generator
+name: Brandon Kraeling
+title: Brandon Kraeling | Developer/Writer
+description: "JavaScript and React Native Developer, Baseball Writer and Podcaster, General Enthusiast"
+meta_description: "JavaScript, React Native, MongoDB, MeteorJS, Ruby, React, Rails"
+meta_keywords: "site, website, backend, javascript, react-native, mobile, ios, android"
+url: http://bkraeling.me
+production_url: http://bkraeling.me
+repo: https://github.com/bkraeling/bkraeling.github.io
+disqus_shortname: "bkraeling"
+rss_path: source/
 author:
-  name:              Brandon
-  url:               https://twitter.com/themusketeer
-  email:             bkraeling@gmail.com
+  name: Brandon Kraeling
+  image: /assets/images/brandon.jpg
+  email: bkraeling@gmail.com
+  url: https://bkraeling.me
+  twitter: https://twitter.com/themusketeer
+  instagram: https://instagram.com/themusketeer0
+  github: https://github.com/bkraeling
+  linkedin: https://www.linkedin.com/in/brandonkraeling/
+  bio: "JavaScript web/mobile developer, writer, general hobbyist."
 
-# Custom vars
-version:             1.0.0
-permalink:           /:year/:month/:day/:title
+# thought
+thought:
+  text: I have no special talent. I am only passionately curious.
+  author: Albert Einstein
+
+# Plugin: jekyll-assets
+assets:
+  dirname: /assets
+  baseurl: /assets
+  sources:
+    - assets/images
+    - assets/fonts
+    - assets/css
+    - assets/js
+  cache: true
+  gzip: [ text/css, application/javascript ]
+
+# Compress HTML
+compress_html:
+  clippings: all
+  comments: all
+  endings: all
+  profile: false
+  ignore:
+    envs: all
+
+exclude: ["gulp", "node_modules", "bower", "bower_components", "config.rb", "src", "Gemfile", "Gemfile.lock", ".rvmrc", ".rbenv-version", "package.json", "gulpfile.js", "README.md", "Rakefile", "changelog.md"]
