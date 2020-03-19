@@ -67,3 +67,4 @@ exclude: ["gulp", "node_modules", "bower", "bower_components", "config.rb", "src
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-include-cache
